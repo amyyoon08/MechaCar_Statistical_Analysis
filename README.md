@@ -41,3 +41,10 @@
 
 ![Optional Text](Resources/lot3.PNG)
 
+
+## Study Design: MechaCar vs Competition
+
+ - I think cost and horsepower are metrics that people consider the most when they want to buy a car. 
+ - 
+ - I would use the ANOVA test to compare the mean of each metric from multiple competitors.
+ - Gathering information from other manufacturers is significant as we need it for the comparison.
