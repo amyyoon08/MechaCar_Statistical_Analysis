@@ -13,9 +13,11 @@
 ## Summary Statistics on Suspension Coils 
 
 - Total Summary
+- 
 ![Optional Text](Resources/total_summary.PNG)
 
 - Lot Summary
+- 
 ![Optional Text](Resources/lot_summary.PNG)
 
 - Generally, from the total_summary table, the design meets the requirement that the variance of the suspension coils must not exceed 100 psi.  
